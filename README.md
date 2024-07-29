@@ -12,7 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:SEUGMAIL)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JandersonMoreira)
 # Habilidades
-# Plataformas Low-Code
+# Plataformas Low-Code, Desenvolvedor de software
 ### Criação de Aplicativos: Criação de aplicativos utilizando plataformas low-code.
 ### Integração de APIs: Integração de APIs em aplicativos low-code.
 ### Customização de Aplicativos: Customização de aplicativos através de scripts
