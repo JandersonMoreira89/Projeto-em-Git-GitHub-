@@ -41,3 +41,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+
+# Acreditamos que a tecnologia tem o poder de transformar o mundo. Esperamos que este projeto sirva como uma pequena peça nesse grande quebra-cabeça. Continue explorando, continue inventando e continue mudando o mundo para melhor.
+
+
+
