@@ -1,3 +1,6 @@
+#  Contribuindo em um Projeto Open Source no GitHub
+## Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio e exercício prático para o lab Contribuindo em um Projeto Open Source no GitHub da https://www.dio.me/
+
 
 # Projeto Git-GitHub-DIO
 # Sobre Mim
